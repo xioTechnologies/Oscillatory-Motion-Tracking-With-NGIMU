@@ -1,0 +1,7 @@
+The movement of the NGIMU during the collection of the OscillatoryMotionTrackingSession dataset is described by the following sequence:
+1. Stationary for ~5 seconds
+2. Raised ~30cm
+3. Stationary for ~5 seconds
+4. Raised and lowered ~30 cm repeatedly for an oscillating height for ~5 seconds
+5. Stationary for ~5 seconds
+2. Lowered ~30cm to return to original height at start of sequence

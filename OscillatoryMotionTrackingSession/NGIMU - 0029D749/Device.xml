@@ -1,0 +1,13 @@
+<Device>
+  <DeviceInformation DeviceName="NGIMU" SerialNumber="0029D749" FirmwareVersion="v1.2 (Nov 20 2016 19:00:33)" BootloaderVersion="v1.1 (Sep 28 2016 17:05:48)" HardwareVersion="v1.2 (March 2016)" />
+  <ConnectionInformation ConnectionType="Udp" SendIPAddress="192.168.1.6" SendPort="9000" AdapterIPAddress="192.168.1.2" ReceivePort="8006" AdapterName="Intel(R) Centrino(R) Advanced-N 6235" />
+  <TimeStamps First="2016-12-07 17:16:22.056" Last="2016-12-07 17:16:49.545" TimeSpan="00:00:27.489" />
+  <FilesCreated>
+    <File Name="quaternion.csv" Messages="1375" />
+    <File Name="earth.csv" Messages="5499" />
+    <File Name="temperature.csv" Messages="27" />
+    <File Name="humidity.csv" Messages="27" />
+    <File Name="battery.csv" Messages="27" />
+  </FilesCreated>
+  <Statistics BytesReceived="20126192" PacketsReceived="94235" BundlesReceived="433003" MessagesReceived="338976" ReceiveErrors="0" />
+</Device>
